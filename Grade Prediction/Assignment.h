@@ -9,7 +9,7 @@ using namespace std;
 class Assignment {
 private:
     string name;
-    double pointsAchieved;
+    double pointsScored;
     double pointsPossible;
     bool completed;
     bool edited;
