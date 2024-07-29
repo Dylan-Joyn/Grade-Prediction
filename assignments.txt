@@ -1,0 +1,6 @@
+Homework Homework1 73 100 1
+Homework Homework2 48 100 1
+Exams Midterm 56 100 1
+Exams Final 100 100 1
+Projects Project1 100 100 1
+Projects Project2 32 100 0
